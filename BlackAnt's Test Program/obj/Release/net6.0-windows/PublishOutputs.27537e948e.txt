@@ -1,5 +1,0 @@
-C:\Users\Anthony Corbin Kruse\source\repos\BlackAnt's Test Program\BlackAnt's Test Program\bin\Release\net6.0-windows\publish\BlackAnt's Test Program.exe
-C:\Users\Anthony Corbin Kruse\source\repos\BlackAnt's Test Program\BlackAnt's Test Program\bin\Release\net6.0-windows\publish\BlackAnt's Test Program.dll
-C:\Users\Anthony Corbin Kruse\source\repos\BlackAnt's Test Program\BlackAnt's Test Program\bin\Release\net6.0-windows\publish\BlackAnt's Test Program.deps.json
-C:\Users\Anthony Corbin Kruse\source\repos\BlackAnt's Test Program\BlackAnt's Test Program\bin\Release\net6.0-windows\publish\BlackAnt's Test Program.runtimeconfig.json
-C:\Users\Anthony Corbin Kruse\source\repos\BlackAnt's Test Program\BlackAnt's Test Program\bin\Release\net6.0-windows\publish\WinVer.dll

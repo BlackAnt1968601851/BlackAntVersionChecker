@@ -1,3 +1,0 @@
-C:\Users\Anthony Corbin Kruse\source\repos\BlackAnt's Test Program\BlackAnt's Test Program\bin\Release\net6.0-windows\publish\win-x64\WinVer.dll
-C:\Users\Anthony Corbin Kruse\source\repos\BlackAnt's Test Program\BlackAnt's Test Program\bin\Release\net6.0-windows\publish\win-x64\BlackAnt's Test Program.dll.config
-C:\Users\Anthony Corbin Kruse\source\repos\BlackAnt's Test Program\BlackAnt's Test Program\bin\Release\net6.0-windows\publish\win-x64\BlackAnt's Test Program.exe
