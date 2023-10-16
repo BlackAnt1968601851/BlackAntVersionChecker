@@ -9,16 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinVer", "WinVer\WinVer\Win
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3A1A34A0-5AFF-48C9-8993-849EE6DFB871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3A1A34A0-5AFF-48C9-8993-849EE6DFB871}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A1A34A0-5AFF-48C9-8993-849EE6DFB871}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A1A34A0-5AFF-48C9-8993-849EE6DFB871}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BD17DC8F-2371-4D76-9CA2-90F8183367A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BD17DC8F-2371-4D76-9CA2-90F8183367A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD17DC8F-2371-4D76-9CA2-90F8183367A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD17DC8F-2371-4D76-9CA2-90F8183367A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection

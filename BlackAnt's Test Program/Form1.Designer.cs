@@ -165,9 +165,9 @@
             label3.Enabled = false;
             label3.Location = new Point(176, 112);
             label3.Name = "label3";
-            label3.Size = new Size(251, 45);
+            label3.Size = new Size(271, 30);
             label3.TabIndex = 8;
-            label3.Text = "For Developers\r\nCompile WinVer First\r\nAnd Compile everything as release not Debug.";
+            label3.Text = "For Developers\r\nCompile WinVer First before before compiling me.";
             label3.Visible = false;
             // 
             // pictureBox2
