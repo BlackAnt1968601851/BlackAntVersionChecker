@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anthony Corbin Kruse\\source\\repos\\BlackAnt's Test Program\\WinVer\\WinVer\\WinVer.csproj",
+      "projectUniqueName": "C:\\Users\\Anthony Corbin Kruse\\Downloads\\fsdfasd\\BlackAntVersionChecker-main\\WinVer\\WinVer\\WinVer.csproj",
       "projectName": "WinVer",
-      "projectPath": "C:\\Users\\Anthony Corbin Kruse\\source\\repos\\BlackAnt's Test Program\\WinVer\\WinVer\\WinVer.csproj",
+      "projectPath": "C:\\Users\\Anthony Corbin Kruse\\Downloads\\fsdfasd\\BlackAntVersionChecker-main\\WinVer\\WinVer\\WinVer.csproj",
       "packagesPath": "C:\\Users\\Anthony Corbin Kruse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anthony Corbin Kruse\\source\\repos\\BlackAnt's Test Program\\WinVer\\WinVer\\obj\\",
+      "outputPath": "C:\\Users\\Anthony Corbin Kruse\\Downloads\\fsdfasd\\BlackAntVersionChecker-main\\WinVer\\WinVer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

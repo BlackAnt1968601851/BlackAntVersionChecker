@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anthony Corbin Kruse\\source\\repos\\BlackAnt's Test Program\\BlackAnt's Test Program\\BlackAnt's Test Program.csproj": {}
+    "C:\\Users\\Anthony Corbin Kruse\\Downloads\\fsdfasd\\BlackAntVersionChecker-main\\BlackAnt's Test Program\\BlackAnt's Test Program.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anthony Corbin Kruse\\source\\repos\\BlackAnt's Test Program\\BlackAnt's Test Program\\BlackAnt's Test Program.csproj": {
+    "C:\\Users\\Anthony Corbin Kruse\\Downloads\\fsdfasd\\BlackAntVersionChecker-main\\BlackAnt's Test Program\\BlackAnt's Test Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anthony Corbin Kruse\\source\\repos\\BlackAnt's Test Program\\BlackAnt's Test Program\\BlackAnt's Test Program.csproj",
+        "projectUniqueName": "C:\\Users\\Anthony Corbin Kruse\\Downloads\\fsdfasd\\BlackAntVersionChecker-main\\BlackAnt's Test Program\\BlackAnt's Test Program.csproj",
         "projectName": "BlackAnt's Test Program",
-        "projectPath": "C:\\Users\\Anthony Corbin Kruse\\source\\repos\\BlackAnt's Test Program\\BlackAnt's Test Program\\BlackAnt's Test Program.csproj",
+        "projectPath": "C:\\Users\\Anthony Corbin Kruse\\Downloads\\fsdfasd\\BlackAntVersionChecker-main\\BlackAnt's Test Program\\BlackAnt's Test Program.csproj",
         "packagesPath": "C:\\Users\\Anthony Corbin Kruse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anthony Corbin Kruse\\source\\repos\\BlackAnt's Test Program\\BlackAnt's Test Program\\obj\\",
+        "outputPath": "C:\\Users\\Anthony Corbin Kruse\\Downloads\\fsdfasd\\BlackAntVersionChecker-main\\BlackAnt's Test Program\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
