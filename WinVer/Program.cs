@@ -3,6 +3,10 @@ using System.Numerics;
 
 public static class WinVer
 {
+    public static string Version = "1.2.1";
+    public static string about = "You are running BlackAnt's Version Tool Version: " + Version;
+    public static int Progress = 100;
+    public static bool dll = true;
     public static string Main()
     {
     var hi2 = Environment.OSVersion.Version;
@@ -28,7 +32,4 @@ public static class WinVer
             return "Other/Unknwon";
         }
     }
-    public static string Version = "The Current Version is: 1.2.0";
-    public static string about = "You are running BlackAnt's Version Tool Version: 1.2.0";
-    public static int Progress = 100;
 }
