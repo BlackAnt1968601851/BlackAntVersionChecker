@@ -43,6 +43,7 @@
             pictureBox2 = new PictureBox();
             pictureBox3 = new PictureBox();
             pictureBox4 = new PictureBox();
+            label4 = new Label();
             menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
@@ -96,7 +97,7 @@
             menuStrip1.BackColor = Color.White;
             menuStrip1.Dock = DockStyle.None;
             menuStrip1.Items.AddRange(new ToolStripItem[] { fileToolStripMenuItem, aboutToolStripMenuItem });
-            menuStrip1.Location = new Point(2, 28);
+            menuStrip1.Location = new Point(5, 28);
             menuStrip1.Name = "menuStrip1";
             menuStrip1.Size = new Size(97, 24);
             menuStrip1.TabIndex = 4;
@@ -197,12 +198,26 @@
             pictureBox4.TabIndex = 11;
             pictureBox4.TabStop = false;
             // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.BackColor = Color.Blue;
+            label4.Location = new Point(204, 6);
+            label4.Name = "label4";
+            label4.Size = new Size(149, 15);
+            label4.TabIndex = 12;
+            label4.Text = "BlackAnt's Version Checker";
+            label4.MouseDown += Mouse_Border_Drag;
+            label4.MouseMove += Mouse_Border_Event;
+            label4.MouseUp += Mouse_Border_UnDrag;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
             ClientSize = new Size(558, 205);
+            Controls.Add(label4);
             Controls.Add(pictureBox4);
             Controls.Add(pictureBox3);
             Controls.Add(pictureBox2);
@@ -252,5 +267,6 @@
         private PictureBox pictureBox2;
         private PictureBox pictureBox3;
         private PictureBox pictureBox4;
+        private Label label4;
     }
 }
