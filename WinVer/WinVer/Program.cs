@@ -3,7 +3,7 @@ using System.Numerics;
 
 public static class WinVer
 {
-    public static string Version = "1.2.5";
+    public static string Version = "1.2.1";
     public static string about = "You are running BlackAnt's Version Tool Version: " + Version;
     public static int Progress = 100;
     public static bool dll = true;
