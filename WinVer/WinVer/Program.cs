@@ -28,7 +28,7 @@ public static class WinVer
             return "Other/Unknwon";
         }
     }
-    public static string Version = "The Current Version is: 1.1.1";
-    public static string about = "You are running BlackAnt's Version Tool Version: 1.1.1";
+    public static string Version = "The Current Version is: 1.2.0";
+    public static string about = "You are running BlackAnt's Version Tool Version: 1.2.0";
     public static int Progress = 100;
 }

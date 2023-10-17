@@ -36,32 +36,37 @@ namespace BlackAnt_s_Test_Program
         {
             this.Close();
         }
-        public int Pos;
-        public int Pos2;
-        public int Pos3;
-        public int Posraw;
-        public int Posraw2;
-        public string Posraw3;
         public bool mouseClicked;
+        public int OrigposX;
+        public int OrigposY;
+        public int OrigWinPosX;
+        public int OrigWinPosY;
         private void Mouse_Border_Event(object sender, EventArgs e)
         {
             if (mouseClicked == true)
             {
 
-                Posraw = ((int)Cursor.Position.X);
-                Posraw2 = ((int)Cursor.Position.Y);
-                Posraw3 = Cursor.Position.ToString();
-                Pos = Posraw;
-                Pos2 = Posraw2;
-                this.Left = Posraw;
-                this.Top = Posraw2;
-                //label2.Text = Posraw3;
+                var Posraw = ((int)Cursor.Position.X);
+                var Posraw2 = ((int)Cursor.Position.Y);
+                var Posraw3 = Cursor.Position.ToString();
+                var Pos = Posraw;
+                var Pos2 = Posraw2;
+                var hiX = OrigposX - OrigWinPosX;
+                var hiX2 = Posraw - hiX;
+                var hiY = OrigposY - OrigWinPosY;
+                var hiY2 = Posraw2 - hiY;
+                this.Left = hiX2;
+                this.Top = hiY2;
             }
         }
 
         private void Mouse_Border_Drag(object sender, MouseEventArgs e)
         {
             mouseClicked = true;
+            OrigposX = Cursor.Position.X;
+            OrigposY = Cursor.Position.Y;
+            OrigWinPosY = this.Top;
+            OrigWinPosX = this.Left;
             label2.Text = mouseClicked.ToString();
         }
 
