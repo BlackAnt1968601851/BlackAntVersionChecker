@@ -11,10 +11,11 @@ namespace BlackAnt_s_Test_Program
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            version.Text = "The Current Version is: ";
+            version.Text += WinVer.Version;
             Text1.Text = WinVer.Main();
-            version.Text = WinVer.Version;
             progressBar1.Value = WinVer.Progress;
-            label2.Text = mouseClicked.ToString();
+            label2.Text = "False";
         }
 
         private void contextMenuStrip1_Opening(object sender, System.ComponentModel.CancelEventArgs e)

@@ -78,9 +78,9 @@
             version.AutoSize = true;
             version.Location = new Point(12, 178);
             version.Name = "version";
-            version.Size = new Size(103, 15);
+            version.Size = new Size(155, 15);
             version.TabIndex = 2;
-            version.Text = "Version Info: Error.";
+            version.Text = "The Current Version is: Error.";
             // 
             // progressBar1
             // 
